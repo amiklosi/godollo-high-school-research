@@ -1,6 +1,6 @@
 # High School Research — Gödöllő and Surrounding Area
 
-[Magyar változat](README.hu.md)
+[Magyar változat](README.hu.md) · [Separate admission-score calculations](scores/README.md)
 
 **Research date:** 2026-09-21  
 **Purpose:** admission after 8th grade, most likely for the 2027/2028 school year.

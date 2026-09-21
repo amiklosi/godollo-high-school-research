@@ -1,5 +1,7 @@
 # Középiskolai kutatás – Gödöllő és környéke
 
+[Iskolánkénti felvételi pontszámítások (angolul)](scores/README.md)
+
 **Kutatás dátuma:** 2026-09-21  
 **Cél:** 8. osztály utáni, várhatóan 2027/2028-as beiskolázás.
 
