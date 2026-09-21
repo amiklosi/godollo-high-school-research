@@ -366,6 +366,10 @@ A 2026-os négyévfolyamos eljárásban:
 
 A 2027-es szabályokat újra ellenőrizni kell.
 
+### Nem vallásos jelentkezők
+
+A felvételi nem vallásos diáknak nincs kifejezetten jogilag kizártként leírva, de a jelenlegi eljárás jelentős akadályt támaszt. A plébánosi vagy lelkészi ajánlás kötelező dokumentum; a motivációs levélben be kell mutatni a család hitéleti gyakorlatát, egyházközségi kötődését és hitoktatását; a hitéleti szóbeli pedig **50 pontot ér a 400-ból**. Az iskola pedagógiai programja megkeresztelt, vallásukat gyakorló jelentkezőket vár. Régi fórumok említenek nem vallásos diákokat, de ezek megelőzik a jelenlegi közzétett követelményeket, ezért nem megbízhatóak. Nem vallásos családként még a komoly rangsorolás előtt írásos választ érdemes kérni az iskolától arról, hogy befogadják-e a jelentkezést, és kiváltható-e bármivel a lelkészi ajánlás.
+
 ### Vélemények
 
 **Pozitívumok:** erős tanárok, jó érettségi-felkészítés, programok, családias közösség, helyi és országos eredményesség.  

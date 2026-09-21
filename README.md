@@ -368,6 +368,10 @@ In the 2026 four-year admission process:
 
 Recheck all requirements in the 2027 guide.
 
+### Nonreligious applicants
+
+Admission is not explicitly described as legally impossible for a nonreligious student, but the current process creates a substantial barrier. A parish-priest or minister recommendation is a mandatory application document; the motivation letter must describe family religious practice, congregation membership, and religious education; and the faith-related interview is worth **50 of 400 points**. The school’s pedagogical program says it expects baptized, practicing applicants. Older forums mention nonreligious students attending, but those reports predate the current published requirements and should not be relied upon. A nonreligious family should obtain a written answer from the school about whether it will accept the application and what, if anything, can replace the clergy recommendation before ranking it seriously.
+
 ### Opinions
 
 **Positives:** strong teachers, good Matura preparation, many programs, close community, and good local and national results.  
