@@ -18,6 +18,18 @@
 
 A jelenlegi nyolcadikos számára várhatóan a **2027/2028-as felvételi tájékoztatók** relevánsak. Ezek 2026. szeptember 21-én még nem mindenhol jelentek meg. Az alábbi felvételi kódok, küszöbök és létszámok főként a **2026/2027-es, már lezárt ciklusból** származnak; jó viszonyítási alapok, de nem tekinthetők a következő eljárás végleges szabályainak.
 
+## A tanítás kezdete
+
+| Iskola | Szokásos kezdés | Jellemző befejezés / megjegyzés | Becsült otthoni indulás tömegközlekedéssel |
+|---|---:|---|---:|
+| TIG | **7:50** | A legfrissebb nyilvánosan megtalált házirend szerint a 7. óra 14:10-kor, a 8. óra 15:15-kor ér véget. Kivételes 0. óra: 7:00–7:45. Érkezés legkésőbb 7:45-re. | kb. **7:10–7:15** |
+| BPS JPP | **9:00** | A hivatalos JPP GYIK szerint a legtöbb diák 15:10–16:00 körül végez; 45 perces órák és egyórás ebédszünet. | kb. **7:40–7:45** |
+| Szerb Antal | **8:00** | Hivatalos 2026/2027-es csengetési rend: a 7. óra 14:45-kor, a 8. 15:35-kor ér véget. A 0. óra 7:15–8:00. | kb. **6:25–6:30** |
+
+Igen: **a JPP-ben általában 9:00-kor kezdődik a nap.** A későbbi kezdés részben ellensúlyozza a hosszabb reggeli utat. A Szerb reggeli ingázása a legnehezebb. A TIG 7:50-es kezdése a legfrissebb nyilvánosan megtalálható, 2024-es házirenden alapul, nem aktuális hivatalos órarendi oldalon, ezért beiratkozás előtt közvetlenül is ellenőrizendő.
+
+Források: [BPS JPP GYIK](https://opendays.budapestschool.org/gyik/), [Szerb hivatalos csengetési rend](https://szag16.hu/diakportal/csengetesi-rend), [TIG 2024-es házirend másolata](https://www.scribd.com/document/792276930/Hazirend-2024-09-02).
+
 ---
 
 # 1–3. Gödöllői Török Ignác Gimnázium

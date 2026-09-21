@@ -20,6 +20,18 @@
 
 For a student currently in 8th grade, the **2027/2028 admission guides** are likely the relevant documents. On 21 September 2026, not every school had published them. Most codes, cutoffs, and place counts below come from the completed **2026/2027 admission cycle**. They are useful benchmarks, not final rules for the next cycle.
 
+## School-day start times
+
+| School | Normal start | Typical finish / notes | Approximate departure from home by public transport |
+|---|---:|---|---:|
+| TIG | **7:50** | Latest public house rules found: period 7 ends 14:10; period 8 ends 15:15. An exceptional period 0 runs 7:00–7:45. Students should arrive by 7:45. | about **7:10–7:15** |
+| BPS JPP | **9:00** | Official JPP FAQ: most students finish around 15:10–16:00; 45-minute lessons and a one-hour lunch break. | about **7:40–7:45** |
+| Szerb Antal | **8:00** | Official 2026/2027 bell schedule: period 7 ends 14:45; period 8 ends 15:35. Period 0 runs 7:15–8:00. | about **6:25–6:30** |
+
+Yes: **JPP normally starts at 9:00.** Its later start partly offsets the longer journey in the morning. Szerb has the hardest morning commute. TIG’s 7:50 start is based on the latest publicly findable 2024 house rules rather than a current official timetable page, so confirm it directly before enrollment.
+
+Sources: [BPS JPP FAQ](https://opendays.budapestschool.org/gyik/), [Szerb official bell schedule](https://szag16.hu/diakportal/csengetesi-rend), [TIG 2024 house rules copy](https://www.scribd.com/document/792276930/Hazirend-2024-09-02).
+
 ---
 
 # 1–3. Gödöllői Török Ignác Gimnázium (TIG)
