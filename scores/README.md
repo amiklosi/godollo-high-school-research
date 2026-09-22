@@ -4,6 +4,8 @@ Assumption: the student received the top Hungarian grade, **5**, in every releva
 
 These calculations use the latest publicly available rules, mostly from the completed 2026/2027 cycle. Schools may change formulas for 2027/2028.
 
+[Direct TIG vs. Szerb comparison](tig-vs-szerb.md) · [Magyarul](tig-vs-szerb.hu.md)
+
 | School | School-grade points | Maximum | Effect |
 |---|---:|---:|---|
 | [Török Ignác](tig.md) | **50** | 50 | Maximum |
