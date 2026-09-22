@@ -433,28 +433,6 @@ Most programs used 100 centralized-exam points plus 50 school-grade points. Adva
 
 **Assessment:** a more manageable commute than the Budapest options and a useful backup, especially for English or biology.
 
-## D. Veresegyházi Katolikus Gimnázium (VERKA)
-
-- **Estimated journey:** about 27 minutes by car or 70 minutes by public transport.
-- Catholic school with a strong faith framework: prayer, Mass, retreats, and pilgrimages.
-
-### 2026 programs after 8th grade
-
-- **0001:** humanities, English;
-- **0002:** humanities, German;
-- **0003:** science, English;
-- **0004:** science, German.
-
-Two classes, 64 places total. Mathematics is taught in split groups with increased lesson count; Digital Culture is also split; the first foreign language has five lessons per week. Admission included the centralized exam, a language oral exam, and a handwritten introduction letter.
-
-**Positives:** good official Matura results, modern and clean building, activities, and language camps.  
-**Criticisms:** workload rises sharply from grade 9; opinions on language teaching are mixed.
-
-- [Admission information](https://verka.hu/erdeklodoknek/felveteli-informaciok/)
-- [Forum discussion](https://www.gyakorikerdesek.hu/kozoktatas-tanfolyamok__magyar-iskolak__11647115-veresegyhazi-katolikus-gimnazium-verka-velemeny)
-
-**Assessment:** feasible by car but as time-consuming as Szerb by public transport. Strong alternative only if the Catholic profile and humanities/science split are especially attractive.
-
 ---
 
 # Comparison table
@@ -470,7 +448,6 @@ Two classes, 64 places total. Mathematics is taught in split groups with increas
 | Premontrei | 4 years | own 400-point system in 2026 | 24 min | **6 min**, direct bicycle | language or science | fit with faith framework |
 | Református Líceum | 4 years | 200-point system | 28 min | **10 min**, direct bicycle | general, strong local gymnasium | fit with faith framework |
 | Aszód EGA | 4 years | 150/190 depending on track | 48 min | **28–35 min** | general, English, biology | moderate commute, church school |
-| VERKA | 4 years | humanities/science + language + oral | 70 min | **50–60 min**, highly timetable-dependent | humanities/science, languages | long commute, strong Catholic framework |
 
 ### Folding-bike estimate methodology
 
@@ -480,7 +457,6 @@ These are planning estimates rather than routable journeys produced by one app. 
 - **Szerb:** home → Gödöllő HÉV by bicycle **10 min** + H8 to Cinkota **27 min** + Cinkota → school by bicycle **4 min** = 41 minutes raw; **48–55 min realistic**.
 - **Aszód EGA:** home → Máriabesnyő station **5 min** + train to Aszód **9 min** + station → school **9 min** = 23 minutes raw; **28–35 min realistic**.
 - For local Gödöllő schools, riding directly is quicker than combining a bicycle with transit.
-- VERKA relies mainly on buses and transfers rather than one clean rail segment, so the benefit is less predictable.
 
 A folded bike is generally carried free as hand luggage on BKK/HÉV services if it does not soil or obstruct passengers. On MÁV trains, free hand-luggage treatment has stricter wheel-size and packing conditions; check the exact bicycle against the current rule before relying on it. Travel times remain timetable-dependent and should be tested on a school morning.
 
@@ -601,7 +577,6 @@ Do not move a “safer” school above a preferred but more competitive school. 
 - [Premontrei — admission](https://iskolakozpont.premontrei.hu/felvetelizoknek/a-felveteli-eljaras-menete)
 - [Református Líceum](https://grl.hu/)
 - [Aszódi Evangélikus Gimnázium](https://www.egaaszod.hu/)
-- [VERKA — admission](https://verka.hu/erdeklodoknek/felveteli-informaciok/)
 - [Summary of the 2026 HVG ranking for Gödöllő schools](https://godolloihirek.hu/cikkek/2025/11/04/mindennapi/ot-ev-atlagaban-a-premontrei-gimnazium-vezeti-a-godolloi-tanodak-kozepiskolai-rangsorat)
 
 ## Disclaimer

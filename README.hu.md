@@ -433,28 +433,6 @@ A legtöbb képzésnél központi írásbeli 100 + hozott pont 50. Az emelt ango
 
 **Értékelés:** közlekedésben jobb a budapesti opcióknál, és hasznos tartalék lehet, különösen angol vagy biológia irányban.
 
-## D. Veresegyházi Katolikus Gimnázium (VERKA)
-
-- **Becsült út:** kb. 27 perc autóval, 70 perc tömegközlekedéssel.
-- Katolikus, erős hitéleti kerettel: ima, szentmise, lelkigyakorlat, zarándoklat.
-
-### 2026-os nyolcadik utáni képzések
-
-- **0001:** humán, angol;
-- **0002:** humán, német;
-- **0003:** reál, angol;
-- **0004:** reál, német.
-
-Két osztály, összesen 64 hely. Emelt óraszámú, bontott matematika; digitális kultúra csoportbontás; első nyelv heti öt órában. A felvételiben központi írásbeli, nyelvi szóbeli és kézzel írt bemutatkozó levél is szerepelt.
-
-**Pozitívumok:** jó hivatalos érettségi eredmények, modern/tiszta épület, programok, nyelvi táborok.  
-**Kritikák:** 9. osztálytól erősen növekvő terhelés, vegyes nyelvoktatási vélemények.
-
-- [Felvételi információk](https://verka.hu/erdeklodoknek/felveteli-informaciok/)
-- [Fórumvélemény](https://www.gyakorikerdesek.hu/kozoktatas-tanfolyamok__magyar-iskolak__11647115-veresegyhazi-katolikus-gimnazium-verka-velemeny)
-
-**Értékelés:** autóval reális, tömegközlekedéssel a Szerbhez hasonlóan hosszú. Csak akkor erős alternatíva, ha a katolikus profil és a humán/reál bontás kifejezetten vonzó.
-
 ---
 
 # Összehasonlító táblázat
@@ -470,7 +448,6 @@ Két osztály, összesen 64 hely. Emelt óraszámú, bontott matematika; digitá
 | Premontrei | 4 év | 2026-os saját, 400 pontos rendszer | 24 perc | **6 perc**, végig kerékpárral | nyelvi vagy természettudomány | hitéleti illeszkedés |
 | Református Líceum | 4 év | 200 pontos rendszer | 28 perc | **10 perc**, végig kerékpárral | általános, erős helyi gimi | hitéleti illeszkedés |
 | Aszód EGA | 4 év | képzéstől függően 150/190 pont | 48 perc | **28–35 perc** | általános, angol, biológia | közepes ingázás, egyházi profil |
-| VERKA | 4 év | humán/reál + nyelv + szóbeli | 70 perc | **50–60 perc**, erősen menetrendfüggő | humán/reál, nyelv | hosszú ingázás, erős katolikus keret |
 
 ### Az összecsukható kerékpáros becslés módszere
 
@@ -480,7 +457,6 @@ Ezek tervezési becslések, nem egyetlen útvonaltervező által adott kész mul
 - **Szerb:** otthon → Gödöllő HÉV kerékpárral **10 perc** + H8 Cinkotáig **27 perc** + Cinkota → iskola kerékpárral **4 perc** = 41 perc nyers idő; **48–55 perc reálisan**.
 - **Aszód EGA:** otthon → Máriabesnyő állomás **5 perc** + vonat Aszódig **9 perc** + állomás → iskola **9 perc** = 23 perc nyers idő; **28–35 perc reálisan**.
 - A helyi gödöllői iskolákhoz gyorsabb végig kerékpározni, mint a biciklit tömegközlekedéssel kombinálni.
-- A VERKA útvonala főként buszokra és átszállásokra épül, nem egyetlen tiszta vasúti szakaszra, ezért a nyereség kevésbé kiszámítható.
 
 Az összecsukott kerékpár a BKK/HÉV-járatokon általában díjmentesen, kézipoggyászként szállítható, ha nem szennyez és nem akadályoz másokat. A MÁV-vonatokon a díjmentes kézipoggyász-kezeléshez szigorúbb kerékméret- és csomagolási feltételek tartoznak; a konkrét kerékpárt a hatályos szabály alapján ellenőrizni kell. Az időket egy tényleges iskolai reggelen is érdemes kipróbálni.
 
@@ -601,5 +577,4 @@ Ezért nem érdemes egy „biztosabb” iskolát előrébb tenni egy jobban vág
 - [Premontrei – felvételi](https://iskolakozpont.premontrei.hu/felvetelizoknek/a-felveteli-eljaras-menete)
 - [Református Líceum](https://grl.hu/)
 - [Aszódi Evangélikus Gimnázium](https://www.egaaszod.hu/)
-- [VERKA – felvételi](https://verka.hu/erdeklodoknek/felveteli-informaciok/)
 - [HVG 2026 gödöllői rangsor összefoglaló](https://godolloihirek.hu/cikkek/2025/11/04/mindennapi/ot-ev-atlagaban-a-premontrei-gimnazium-vezeti-a-godolloi-tanodak-kozepiskolai-rangsorat)

@@ -12,7 +12,6 @@ These calculations use the latest publicly available rules, mostly from the comp
 | [Budapest School JPP](bps-jpp.md) | Not numerically scored | — | Selection is holistic |
 | [Református Líceum](reformatus-liceum.md) | **60** | 60 | Maximum |
 | [Aszód EGA](aszod-ega.md) | **50** | 50 | Maximum |
-| [VERKA](verka.md) | **50** | 50 | Maximum |
 
 ## Bottom line
 
