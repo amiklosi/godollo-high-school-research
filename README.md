@@ -475,8 +475,9 @@ Rules: [MÁV folding-bike conditions](https://www.mavcsoport.hu/mav-szemelyszall
 5. Református Líceum
 6. Szerb 0021 or 0031
 7. BPS JPP
+8. Aszód EGA 0002 general as the final safety option
 
-Premontrei and Református only belong here if the religious environment is acceptable. The order of BPS and Szerb is highly student-dependent.
+Premontrei and Református only belong here if the religious environment is acceptable. The order of BPS and Szerb is highly student-dependent. Aszód 0002 had the lowest published numerical cutoff in this set: 87/150 in 2026 and 84–104/150 across 2023–2026. With maximum grade points, that historically required only 34–54/100 on the centralized exam and no oral exam.
 
 ## If the student is primarily interested in computing
 

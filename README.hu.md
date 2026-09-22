@@ -475,8 +475,9 @@ Szabályok: [MÁV összecsukható kerékpár feltételek](https://www.mavcsoport
 5. Református Líceum
 6. Szerb 0021 vagy 0031
 7. BPS JPP
+8. Aszód EGA 0002 általános, végső biztonsági opciónak
 
-A Premontrei/Református csak akkor, ha a vallási közeg elfogadható. A BPS és Szerb egymáshoz viszonyított helye teljesen gyermekfüggő.
+A Premontrei/Református csak akkor, ha a vallási közeg elfogadható. A BPS és Szerb egymáshoz viszonyított helye teljesen gyermekfüggő. Az Aszód 0002-nek volt a legalacsonyabb közzétett számszerű ponthatára ebben a körben: 2026-ban 87/150, 2023–2026 között 84–104/150. Maximális hozott ponttal ez történelmileg csak 34–54/100 pontos központit igényelt, szóbeli nélkül.
 
 ## Ha a gyermek informatikai érdeklődésű
 

@@ -38,6 +38,17 @@ Written score needed to equal the 2026 cutoff:
 87 − 50 = 37/100
 ```
 
+Recent general-track history:
+
+| Year | Final cutoff /150 | Written score needed with 50 grade points |
+|---|---:|---:|
+| 2023 | 98 | 48 |
+| 2024 | 84 | 34 |
+| 2025 | 104 | 54 |
+| 2026 | 87 | 37 |
+
+Among the researched schools with published numerical cutoffs, **0002 general had the lowest requirement**. With maximum school-grade points, a centralized-exam score of **60+** would have cleared every 2023–2026 cutoff; **70+** would provide a stronger buffer. The general track has no oral exam, making it the clearest ultimate backup.
+
 ### 0003 advanced English
 
 ```text
