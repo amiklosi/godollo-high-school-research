@@ -16,6 +16,21 @@ The available evidence shows two parallel processes:
 
 The BPS process is not designed as a conventional points-based oral exam.
 
+## Important: current BPS students
+
+A student already attending a BPS primary school follows an **internal progression process** rather than approaching JPP as a completely external family. This is materially helpful because the student already has a mentor, BPS self-assessments, feedback, a portfolio, and a demonstrated history of functioning in the model. It does **not** make admission automatic: JPP still assesses fit, group dynamics, available places, and the family’s mutual decision with the receiving team.
+
+The most detailed published internal-process description is from 2022, so the current mentor should confirm which elements remain in 2027. Historically, the sequence was:
+
+1. self-assessment and discussion with the current BPS mentor;
+2. expression of interest to the BPS high-school team;
+3. project video or an existing portfolio;
+4. independent research/presentation task;
+5. DEMO Day with workshops, presentation, and group-dynamics observation;
+6. family conversation and mutual final decision.
+
+For a current BPS student, the immediate first action should be to speak with the mentor and ask the mentor to initiate or explain the current **továbbhaladási folyamat**. The student should organize the existing BPS portfolio and feedback rather than building an artificial application portfolio from scratch.
+
 ## What is currently confirmed
 
 ### 1. Submit the BPS interest/application form
@@ -186,11 +201,12 @@ Parents should be ready to discuss:
 
 ## Recommended immediate action
 
-1. Submit the BPS interest form now or contact JPP so the family is on the notification list.
-2. Monitor the JPP and open-days pages after **20 October 2026**.
-3. Attend both the student open day and the parent forum.
-4. Still register for the centralized written exam by **1 December 2026**, because the other target schools require it.
-5. Ask JPP to confirm the complete process in writing before the KIFIR deadline.
+1. Ask the current BPS mentor to start or explain the internal **továbbhaladási folyamat** and identify the JPP contact person.
+2. Organize the existing BPS portfolio, self-assessments, and mentor feedback.
+3. Monitor the JPP and open-days pages after **20 October 2026**.
+4. Attend both the student open day and the parent forum.
+5. Still register for the centralized written exam by **1 December 2026**, because the other target schools require it.
+6. Ask JPP to confirm the complete current internal process and KIFIR steps in writing.
 
 ## Sources
 

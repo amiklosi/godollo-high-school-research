@@ -16,6 +16,21 @@ A rendelkezésre álló információk szerint két párhuzamos folyamat van:
 
 A BPS folyamata nem hagyományos, pontszám-alapú szóbeli felvételi.
 
+## Fontos: jelenleg BPS-be járó diákok
+
+Aki már BPS általános iskolába jár, **belső továbbhaladási folyamatban** vesz részt, nem teljesen külsős családként közelíti meg a JPP-t. Ez érdemi előny: van mentora, BPS-es önértékelése, visszajelzései, portfóliója és tényleges tapasztalata a modellben való működésről. A felvétel ettől még **nem automatikus**: a JPP továbbra is vizsgálja az illeszkedést, a csoportdinamikát, a szabad helyeket, valamint a fogadó csapat és a család kölcsönös döntését.
+
+A legrészletesebb közzétett belső folyamatleírás 2022-es, ezért a jelenlegi mentortól kell megkérdezni, mely elemek maradnak érvényben 2027-ben. A korábbi sorrend:
+
+1. önértékelés és beszélgetés a jelenlegi BPS-mentorral;
+2. érdeklődés jelzése a BPS középiskolai csapatának;
+3. projektvideó vagy meglévő portfólió;
+4. önálló kutatási/prezentációs feladat;
+5. DEMO Day műhelyekkel, prezentációval és csoportdinamikai megfigyeléssel;
+6. családi beszélgetés és kölcsönös végső döntés.
+
+Jelenlegi BPS-diáknál az első azonnali lépés a mentorral való beszélgetés, és annak kérése, hogy indítsa el vagy ismertesse az aktuális **továbbhaladási folyamatot**. Nem mesterséges felvételi portfóliót kell nulláról építeni, hanem a meglévő BPS-portfóliót és visszajelzéseket érdemes rendezni.
+
 ## Ami jelenleg biztosan tudható
 
 ### 1. BPS érdeklődési/jelentkezési adatlap kitöltése
@@ -186,11 +201,12 @@ A csupa ötös jó jelzés a szorgalomról és tanulmányi képességről, de a 
 
 ## Javasolt azonnali lépések
 
-1. Most töltsétek ki a BPS érdeklődési adatlapját, vagy lépjetek kapcsolatba a JPP-vel, hogy felkerüljetek az értesítési listára.
-2. **2026. október 20. után** figyeljétek a JPP és a nyílt napok oldalát.
-3. Menjetek el a diákos nyílt napra és a szülői fórumra is.
-4. Ettől függetlenül jelentkezzetek a központi írásbelire **2026. december 1-ig**, mert a többi céliskola kéri.
-5. A KIFIR-határidő előtt kérjétek írásban a JPP-től a teljes aktuális folyamat megerősítését.
+1. Kérjétek meg a jelenlegi BPS-mentort, hogy indítsa el vagy ismertesse a belső **továbbhaladási folyamatot**, és adja meg a JPP-s kapcsolattartót.
+2. Rendezzétek a meglévő BPS-portfóliót, önértékeléseket és mentori visszajelzéseket.
+3. **2026. október 20. után** figyeljétek a JPP és a nyílt napok oldalát.
+4. Menjetek el a diákos nyílt napra és a szülői fórumra is.
+5. Ettől függetlenül jelentkezzetek a központi írásbelire **2026. december 1-ig**, mert a többi céliskola kéri.
+6. Kérjétek írásban a JPP-től a teljes aktuális belső folyamat és a KIFIR-lépések megerősítését.
 
 ## Források
 

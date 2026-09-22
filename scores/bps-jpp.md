@@ -6,6 +6,8 @@ BPS JPP does not publish a conventional formula that converts school grades into
 
 **Result: no numerical school-grade score to calculate.**
 
+For a student already attending BPS primary school, the relevant route is the internal **továbbhaladási** process. The existing mentor relationship, BPS portfolio, self-assessments, and demonstrated fit with the model are directly relevant, but progression to JPP is not automatic.
+
 All 5s are a positive academic signal, but the school says admission emphasizes:
 
 - collaboration;
