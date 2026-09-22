@@ -3,7 +3,7 @@
 **Research date:** 2026-09-22  
 **Target cycle:** 2027/2028
 
-[Back to the main school research](../README.md)
+[Magyar változat](jpp.hu.md) · [Back to the main school research](../README.md)
 
 ## Current status
 
