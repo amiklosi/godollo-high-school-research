@@ -22,11 +22,11 @@ For a student currently in 8th grade, the **2027/2028 admission guides** are lik
 
 ## School-day start times
 
-| School | Normal start | Typical finish / notes | Approximate departure from home by public transport |
-|---|---:|---|---:|
-| TIG | **7:50** | Latest public house rules found: period 7 ends 14:10; period 8 ends 15:15. An exceptional period 0 runs 7:00–7:45. Students should arrive by 7:45. | about **7:10–7:15** |
-| BPS JPP | **9:00** | Official JPP FAQ: most students finish around 15:10–16:00; 45-minute lessons and a one-hour lunch break. | about **7:40–7:45** |
-| Szerb Antal | **8:00** | Official 2026/2027 bell schedule: period 7 ends 14:45; period 8 ends 15:35. Period 0 runs 7:15–8:00. | about **6:25–6:30** |
+| School | Normal start | Typical finish / notes | Departure by public transport | Departure using folding bike + rail |
+|---|---:|---|---:|---:|
+| TIG | **7:50** | Latest public house rules found: period 7 ends 14:10; period 8 ends 15:15. An exceptional period 0 runs 7:00–7:45. Students should arrive by 7:45. | about **7:10–7:15** | about **7:30**, cycling directly |
+| BPS JPP | **9:00** | Official JPP FAQ: most students finish around 15:10–16:00; 45-minute lessons and a one-hour lunch break. | about **7:40–7:45** | about **7:55–8:00** |
+| Szerb Antal | **8:00** | Official 2026/2027 bell schedule: period 7 ends 14:45; period 8 ends 15:35. Period 0 runs 7:15–8:00. | about **6:25–6:30** | about **6:55–7:00** |
 
 Yes: **JPP normally starts at 9:00.** Its later start partly offsets the longer journey in the morning. Szerb has the hardest morning commute. TIG’s 7:50 start is based on the latest publicly findable 2024 house rules rather than a current official timetable page, so confirm it directly before enrollment.
 
@@ -459,20 +459,32 @@ Two classes, 64 places total. Mathematics is taught in split groups with increas
 
 # Comparison table
 
-| School/program | Duration | 2026 admission benchmark | Public transport, approx. | Profile | Main risk |
-|---|---:|---:|---:|---|---|
-| TIG 1010 bilingual | 5 years | 170/200; 30 places | 26 min | strong English, bilingual | high workload, extra year |
-| TIG 1020 advanced English | 4 years | 165/200; 30 places | 26 min | strong English | conventional, demanding environment |
-| TIG 1080 Digital Culture | 4 years | 156/200; 15 places | 26 min | IT/logic | only 15 places; not a creative-media track |
-| BPS JPP | approx. 4-year high-school path | own selection; 37 public accepted IDs in 2026 | 63 min | mentor, projects, individual path | HUF 228k/month, commute, shorter outcome history |
-| Szerb 0021 | 4 years | 126/150; 28 places | 70 min | strong English, strong gymnasium | long daily commute |
-| Szerb 0031 prep year | 5 years | 119/150; 28 places | 70 min | English preparatory year | long commute plus extra year |
-| Premontrei | 4 years | own 400-point system in 2026 | 24 min | language or science | fit with faith framework |
-| Református Líceum | 4 years | 200-point system | 28 min | general, strong local gymnasium | fit with faith framework |
-| Aszód EGA | 4 years | 150/190 depending on track | 48 min | general, English, biology | moderate commute, church school |
-| VERKA | 4 years | humanities/science + language + oral | 70 min | humanities/science, languages | long commute, strong Catholic framework |
+| School/program | Duration | 2026 admission benchmark | Public transport | Folding bike + rail/transit | Profile | Main risk |
+|---|---:|---:|---:|---:|---|---|
+| TIG 1010 bilingual | 5 years | 170/200; 30 places | 26 min | **10 min**, direct bicycle | strong English, bilingual | high workload, extra year |
+| TIG 1020 advanced English | 4 years | 165/200; 30 places | 26 min | **10 min**, direct bicycle | strong English | conventional, demanding environment |
+| TIG 1080 Digital Culture | 4 years | 156/200; 15 places | 26 min | **10 min**, direct bicycle | IT/logic | only 15 places; not a creative-media track |
+| BPS JPP | approx. 4-year high-school path | own selection; 37 public accepted IDs in 2026 | 63 min | **48–55 min** | mentor, projects, individual path | HUF 228k/month, commute, shorter outcome history |
+| Szerb 0021 | 4 years | 126/150; 28 places | 70 min | **48–55 min** | strong English, strong gymnasium | long daily commute |
+| Szerb 0031 prep year | 5 years | 119/150; 28 places | 70 min | **48–55 min** | English preparatory year | long commute plus extra year |
+| Premontrei | 4 years | own 400-point system in 2026 | 24 min | **6 min**, direct bicycle | language or science | fit with faith framework |
+| Református Líceum | 4 years | 200-point system | 28 min | **10 min**, direct bicycle | general, strong local gymnasium | fit with faith framework |
+| Aszód EGA | 4 years | 150/190 depending on track | 48 min | **28–35 min** | general, English, biology | moderate commute, church school |
+| VERKA | 4 years | humanities/science + language + oral | 70 min | **50–60 min**, highly timetable-dependent | humanities/science, languages | long commute, strong Catholic framework |
 
-Travel times are Google Maps snapshots, not guaranteed school-day schedules. Recheck them for a weekday morning arrival at the actual start time.
+### Folding-bike estimate methodology
+
+These are planning estimates rather than routable journeys produced by one app. They combine Google Maps bicycle legs, the scheduled rail/HÉV segment, and roughly 5–12 minutes for folding, boarding, transfers, and timetable alignment:
+
+- **JPP:** home → Máriabesnyő station by bicycle **5 min** + IR train to Keleti **33 min** + Keleti → JPP by bicycle **5 min** = 43 minutes raw; **48–55 min realistic**.
+- **Szerb:** home → Gödöllő HÉV by bicycle **10 min** + H8 to Cinkota **27 min** + Cinkota → school by bicycle **4 min** = 41 minutes raw; **48–55 min realistic**.
+- **Aszód EGA:** home → Máriabesnyő station **5 min** + train to Aszód **9 min** + station → school **9 min** = 23 minutes raw; **28–35 min realistic**.
+- For local Gödöllő schools, riding directly is quicker than combining a bicycle with transit.
+- VERKA relies mainly on buses and transfers rather than one clean rail segment, so the benefit is less predictable.
+
+A folded bike is generally carried free as hand luggage on BKK/HÉV services if it does not soil or obstruct passengers. On MÁV trains, free hand-luggage treatment has stricter wheel-size and packing conditions; check the exact bicycle against the current rule before relying on it. Travel times remain timetable-dependent and should be tested on a school morning.
+
+Rules: [MÁV folding-bike conditions](https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/kerekparszallitas/belfold/szallitasi-feltetelek-jegyarak), [BKK bicycle carriage](https://bkk.hu/hirek/2023/04/aprilistol-ujabb-jarat-bovul-kerekparszallitasi-lehetoseggel.9617/).
 
 ---
 

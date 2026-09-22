@@ -22,11 +22,11 @@ A jelenlegi nyolcadikos számára várhatóan a **2027/2028-as felvételi tájé
 
 ## A tanítás kezdete
 
-| Iskola | Szokásos kezdés | Jellemző befejezés / megjegyzés | Becsült otthoni indulás tömegközlekedéssel |
-|---|---:|---|---:|
-| TIG | **7:50** | A legfrissebb nyilvánosan megtalált házirend szerint a 7. óra 14:10-kor, a 8. óra 15:15-kor ér véget. Kivételes 0. óra: 7:00–7:45. Érkezés legkésőbb 7:45-re. | kb. **7:10–7:15** |
-| BPS JPP | **9:00** | A hivatalos JPP GYIK szerint a legtöbb diák 15:10–16:00 körül végez; 45 perces órák és egyórás ebédszünet. | kb. **7:40–7:45** |
-| Szerb Antal | **8:00** | Hivatalos 2026/2027-es csengetési rend: a 7. óra 14:45-kor, a 8. 15:35-kor ér véget. A 0. óra 7:15–8:00. | kb. **6:25–6:30** |
+| Iskola | Szokásos kezdés | Jellemző befejezés / megjegyzés | Indulás tömegközlekedéssel | Indulás összecsukható bicikli + vasút használatával |
+|---|---:|---|---:|---:|
+| TIG | **7:50** | A legfrissebb nyilvánosan megtalált házirend szerint a 7. óra 14:10-kor, a 8. óra 15:15-kor ér véget. Kivételes 0. óra: 7:00–7:45. Érkezés legkésőbb 7:45-re. | kb. **7:10–7:15** | kb. **7:30**, végig kerékpárral |
+| BPS JPP | **9:00** | A hivatalos JPP GYIK szerint a legtöbb diák 15:10–16:00 körül végez; 45 perces órák és egyórás ebédszünet. | kb. **7:40–7:45** | kb. **7:55–8:00** |
+| Szerb Antal | **8:00** | Hivatalos 2026/2027-es csengetési rend: a 7. óra 14:45-kor, a 8. 15:35-kor ér véget. A 0. óra 7:15–8:00. | kb. **6:25–6:30** | kb. **6:55–7:00** |
 
 Igen: **a JPP-ben általában 9:00-kor kezdődik a nap.** A későbbi kezdés részben ellensúlyozza a hosszabb reggeli utat. A Szerb reggeli ingázása a legnehezebb. A TIG 7:50-es kezdése a legfrissebb nyilvánosan megtalálható, 2024-es házirenden alapul, nem aktuális hivatalos órarendi oldalon, ezért beiratkozás előtt közvetlenül is ellenőrizendő.
 
@@ -459,20 +459,32 @@ Két osztály, összesen 64 hely. Emelt óraszámú, bontott matematika; digitá
 
 # Összehasonlító táblázat
 
-| Iskola/képzés | Időtartam | 2026-os felvételi benchmark | Tömegközlekedés, kb. | Profil | Fő kockázat |
-|---|---:|---:|---:|---|---|
-| TIG 1010 kéttannyelvű | 5 év | 170/200; 30 hely | 26 perc | erős angol, kéttannyelvű | magas terhelés, plusz év |
-| TIG 1020 emelt angol | 4 év | 165/200; 30 hely | 26 perc | erős angol | hagyományos, hajtós közeg |
-| TIG 1080 digitális kultúra | 4 év | 156/200; 15 hely | 26 perc | informatika/logika | csak 15 hely; nem kreatív médiaszak |
-| BPS JPP | 4 év körüli középiskolai út | saját kiválasztás; 2026-ban 37 nyilvános felvett azonosító | 63 perc | mentor, projekt, egyéni út | 228 ezer Ft/hó, ingázás, rövidebb eredmény-idősor |
-| Szerb 0021 | 4 év | 126/150; 28 hely | 70 perc | erős angol, erős gimnázium | napi hosszú ingázás |
-| Szerb 0031 NYEK | 5 év | 119/150; 28 hely | 70 perc | angol előkészítő | napi hosszú ingázás + plusz év |
-| Premontrei | 4 év | 2026-os saját, 400 pontos rendszer | 24 perc | nyelvi vagy természettudomány | hitéleti illeszkedés |
-| Református Líceum | 4 év | 200 pontos rendszer | 28 perc | általános, erős helyi gimi | hitéleti illeszkedés |
-| Aszód EGA | 4 év | képzéstől függően 150/190 pont | 48 perc | általános, angol, biológia | közepes ingázás, egyházi profil |
-| VERKA | 4 év | humán/reál + nyelv + szóbeli | 70 perc | humán/reál, nyelv | hosszú ingázás, erős katolikus keret |
+| Iskola/képzés | Időtartam | 2026-os felvételi benchmark | Tömegközlekedés | Összecsukható bicikli + vasút/tömegközlekedés | Profil | Fő kockázat |
+|---|---:|---:|---:|---:|---|---|
+| TIG 1010 kéttannyelvű | 5 év | 170/200; 30 hely | 26 perc | **10 perc**, végig kerékpárral | erős angol, kéttannyelvű | magas terhelés, plusz év |
+| TIG 1020 emelt angol | 4 év | 165/200; 30 hely | 26 perc | **10 perc**, végig kerékpárral | erős angol | hagyományos, hajtós közeg |
+| TIG 1080 digitális kultúra | 4 év | 156/200; 15 hely | 26 perc | **10 perc**, végig kerékpárral | informatika/logika | csak 15 hely; nem kreatív médiaszak |
+| BPS JPP | 4 év körüli középiskolai út | saját kiválasztás; 2026-ban 37 nyilvános felvett azonosító | 63 perc | **48–55 perc** | mentor, projekt, egyéni út | 228 ezer Ft/hó, ingázás, rövidebb eredmény-idősor |
+| Szerb 0021 | 4 év | 126/150; 28 hely | 70 perc | **48–55 perc** | erős angol, erős gimnázium | napi hosszú ingázás |
+| Szerb 0031 NYEK | 5 év | 119/150; 28 hely | 70 perc | **48–55 perc** | angol előkészítő | napi hosszú ingázás + plusz év |
+| Premontrei | 4 év | 2026-os saját, 400 pontos rendszer | 24 perc | **6 perc**, végig kerékpárral | nyelvi vagy természettudomány | hitéleti illeszkedés |
+| Református Líceum | 4 év | 200 pontos rendszer | 28 perc | **10 perc**, végig kerékpárral | általános, erős helyi gimi | hitéleti illeszkedés |
+| Aszód EGA | 4 év | képzéstől függően 150/190 pont | 48 perc | **28–35 perc** | általános, angol, biológia | közepes ingázás, egyházi profil |
+| VERKA | 4 év | humán/reál + nyelv + szóbeli | 70 perc | **50–60 perc**, erősen menetrendfüggő | humán/reál, nyelv | hosszú ingázás, erős katolikus keret |
 
-A menetidők Google Maps-pillanatfelvételek, nem garantált iskolanapi menetrendek. Hétköznap reggel, becsengetési időre külön ellenőrzendők.
+### Az összecsukható kerékpáros becslés módszere
+
+Ezek tervezési becslések, nem egyetlen útvonaltervező által adott kész multimodális útvonalak. A Google Maps kerékpáros szakaszait, a menetrend szerinti vasúti/HÉV-szakaszt, valamint körülbelül 5–12 perc összecsukási, beszállási, átszállási és menetrendi tartalékot kombinálják:
+
+- **JPP:** otthon → Máriabesnyő állomás kerékpárral **5 perc** + IR-vonat Keletiig **33 perc** + Keleti → JPP kerékpárral **5 perc** = 43 perc nyers idő; **48–55 perc reálisan**.
+- **Szerb:** otthon → Gödöllő HÉV kerékpárral **10 perc** + H8 Cinkotáig **27 perc** + Cinkota → iskola kerékpárral **4 perc** = 41 perc nyers idő; **48–55 perc reálisan**.
+- **Aszód EGA:** otthon → Máriabesnyő állomás **5 perc** + vonat Aszódig **9 perc** + állomás → iskola **9 perc** = 23 perc nyers idő; **28–35 perc reálisan**.
+- A helyi gödöllői iskolákhoz gyorsabb végig kerékpározni, mint a biciklit tömegközlekedéssel kombinálni.
+- A VERKA útvonala főként buszokra és átszállásokra épül, nem egyetlen tiszta vasúti szakaszra, ezért a nyereség kevésbé kiszámítható.
+
+Az összecsukott kerékpár a BKK/HÉV-járatokon általában díjmentesen, kézipoggyászként szállítható, ha nem szennyez és nem akadályoz másokat. A MÁV-vonatokon a díjmentes kézipoggyász-kezeléshez szigorúbb kerékméret- és csomagolási feltételek tartoznak; a konkrét kerékpárt a hatályos szabály alapján ellenőrizni kell. Az időket egy tényleges iskolai reggelen is érdemes kipróbálni.
+
+Szabályok: [MÁV összecsukható kerékpár feltételek](https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/kerekparszallitas/belfold/szallitasi-feltetelek-jegyarak), [BKK kerékpárszállítás](https://bkk.hu/hirek/2023/04/aprilistol-ujabb-jarat-bovul-kerekparszallitasi-lehetoseggel.9617/).
 
 ---
 
