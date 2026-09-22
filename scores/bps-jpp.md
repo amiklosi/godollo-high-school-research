@@ -1,6 +1,6 @@
 # Budapest School JPP — admission calculation
 
-[Back to score overview](README.md)
+[Back to score overview](README.md) · [Detailed JPP admission procedure](../admissions/jpp.md)
 
 BPS JPP does not publish a conventional formula that converts school grades into admission points.
 
