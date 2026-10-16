@@ -1,13 +1,16 @@
 # Budapest School JPP admission procedure
 
-**Research date:** 2026-09-22  
+**Research date:** 2026-09-22 · **Open-day update:** 2026-10-15
+
 **Target cycle:** 2027/2028
 
 [Magyar változat](jpp.hu.md) · [Back to the main school research](../README.md)
 
 ## Current status
 
-JPP has not yet published its detailed 2027/2028 admission guide or a current open-day date. Hungarian secondary schools must publish their admission guides by **20 October 2026**. The final JPP-specific rules should therefore be checked after that date.
+**Next confirmed JPP open day: 2 November 2026, 08:55–11:00.** [Event details](https://opendays.budapestschool.org/open-day-registration/9167b965-ac9f-4b53-af93-3169d14388b0). Students must [register separately for both lesson slots](https://my.bphs.hu/opendays); parents have a parallel briefing/building tour from 09:00 to about 10:40, without a capacity limit according to the announcement. No registration submitted.
+
+A detailed 2027/2028 JPP admission guide was not verified in the 15 October refresh. [All current updates](updates-2026-10-15.md). Hungarian secondary schools must publish their admission guides by **20 October 2026**. The final JPP-specific rules should therefore be checked after that date.
 
 The available evidence shows two parallel processes:
 
@@ -51,7 +54,7 @@ JPP has previously run separate registration-only events:
 - parent information sessions and forums covering school operation and the admission process;
 - additional admission days when places remained.
 
-No current 2027/2028 JPP event was listed on 22 September 2026.
+Update, 15 October: the next JPP event is **2 November 2026**; see the current-status section above. The earlier 12 October event has passed.
 
 Open days: <https://opendays.budapestschool.org/nyiltnapok/>
 

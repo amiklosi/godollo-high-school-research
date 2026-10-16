@@ -1,13 +1,16 @@
 # Budapest School JPP – felvételi eljárás
 
-**Kutatás dátuma:** 2026-09-22  
+**Kutatás dátuma:** 2026-09-22 · **Nyílt napi frissítés:** 2026-10-15
+
 **Célzott tanév:** 2027/2028
 
 [English version](jpp.md) · [Vissza a fő kutatáshoz](../README.hu.md)
 
 ## Jelenlegi helyzet
 
-A JPP még nem tette közzé a részletes 2027/2028-as felvételi tájékoztatóját és aktuális nyílt napját. A magyar középiskoláknak **2026. október 20-ig** kell nyilvánosságra hozniuk felvételi tájékoztatójukat. A végleges JPP-specifikus szabályokat ezért ezután kell ellenőrizni.
+**Következő megerősített JPP nyílt nap: 2026. november 2., 08:55–11:00.** [Részletek](https://opendays.budapestschool.org/open-day-registration/9167b965-ac9f-4b53-af93-3169d14388b0). A diáknak [külön kell regisztrálnia mindkét órára](https://my.bphs.hu/opendays). Szülőknek 09:00–kb. 10:40 tájékoztató és épületbejárás, a hirdetmény szerint létszámkorlát nélkül. Nem történt regisztráció.
+
+Részletes 2027/2028-as JPP felvételi tájékoztatót az október 15-i ellenőrzés nem igazolt. [Összes frissítés](updates-2026-10-15.md). A magyar középiskoláknak **2026. október 20-ig** kell nyilvánosságra hozniuk felvételi tájékoztatójukat. A végleges JPP-specifikus szabályokat ezért ezután kell ellenőrizni.
 
 A rendelkezésre álló információk szerint két párhuzamos folyamat van:
 
@@ -51,7 +54,7 @@ A JPP korábban külön, regisztrációhoz kötött alkalmakat szervezett:
 - szülői tájékoztatót és fórumot az iskola működéséről és a felvételi menetről;
 - pótfelvételi napot, ha maradt szabad hely.
 
-2026. szeptember 22-én még nem szerepelt aktuális 2027/2028-as JPP-esemény a nyílt napok között.
+Október 15-i frissítés: a következő JPP-esemény **2026. november 2.**; részletek fent. A korábbi október 12-i alkalom már elmúlt.
 
 Nyílt napok: <https://opendays.budapestschool.org/nyiltnapok/>
 

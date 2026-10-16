@@ -2,6 +2,12 @@
 
 [Back to score overview](README.md)
 
+## 2027/2028 eligibility update — 15 October 2026
+
+The [new official guide](https://www.egaaszod.hu/dokumentumok/194/letoltes), published on 6 October, confirms the formulas below, but requires **baptism documentation**. An unbaptized student needs individual permission from the director and a parental commitment to baptism by the end of the first school year and congregation/parish membership. The guide says SNI students are not accepted. **This is not an unconditional nonreligious safety school.**
+
+0003/0005 require at least 90/150 before oral. Their oral is **13 March 2027**, make-up **18 March**. [Full update](../admissions/updates-2026-10-15.md).
+
 ## School-grade points
 
 The four-year programs count the end-of-grade-7 and first-semester-grade-8 grades in:
@@ -47,7 +53,7 @@ Recent general-track history:
 | 2025 | 104 | 54 |
 | 2026 | 87 | 37 |
 
-Among the researched schools with published numerical cutoffs, **0002 general had the lowest requirement**. With maximum school-grade points, a centralized-exam score of **60+** would have cleared every 2023–2026 cutoff; **70+** would provide a stronger buffer. The general track has no oral exam, making it the clearest ultimate backup.
+Among the researched schools with published numerical cutoffs, **0002 general had the lowest requirement**. With maximum school-grade points, a centralized-exam score of **60+** would have cleared every 2023–2026 cutoff; **70+** would provide a stronger buffer. The general track has no oral exam, making it a numerical backup **only if the religious eligibility requirements above are acceptable and met**.
 
 ### 0003 advanced English
 

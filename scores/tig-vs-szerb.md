@@ -2,6 +2,8 @@
 
 [Magyar változat](tig-vs-szerb.hu.md) · [Back to score overview](README.md)
 
+**2027/2028 correction, checked 15 October 2026:** **Szerb 0031 will not start.** Only 0021 remains relevant after grade 8 (30 planned places). All references below to 0031 and its 69/66-point benchmarks are historical, **not an available fallback**. For the current shortlist, use the historical 0021 range of 76–81 only as context; the new intake structure may change competition. [Official changes](https://szag16.hu/hirek/2026/09/valtozasok-gimnaziumunk-altal-meghirdetett-tanulmanyi-teruletekben) · [Full update](../admissions/updates-2026-10-15.md).
+
 Assumption: maximum school-grade points at both schools, **50/50**.
 
 ## Key difference

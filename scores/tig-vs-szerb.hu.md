@@ -2,6 +2,8 @@
 
 [English version](tig-vs-szerb.md) · [Vissza a pontszámításokhoz](README.md)
 
+**2027/2028-as helyesbítés, ellenőrizve 2026. október 15-én:** **a Szerb 0031 nem indul.** Nyolcadik után a 0021 marad, tervezetten 30 hellyel. Az alábbi 0031-es, 69/66 pontos példák kizárólag történetiek, **nem létező tartalék opciót jelentenek**. A 0021 korábbi 76–81 pontos írásbeli küszöbe is csak viszonyítás: az új képzési szerkezet módosíthatja a versenyt. [Hivatalos változások](https://szag16.hu/hirek/2026/09/valtozasok-gimnaziumunk-altal-meghirdetett-tanulmanyi-teruletekben) · [Teljes frissítés](../admissions/updates-2026-10-15.md).
+
 Feltételezés: mindkét iskolában maximális, **50/50 hozott pont**.
 
 ## A legfontosabb különbség

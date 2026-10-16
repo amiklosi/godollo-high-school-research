@@ -2,6 +2,8 @@
 
 [Back to score overview](README.md)
 
+**2027/2028 confirmed, checked 15 October 2026:** the [current DOCX](https://grl.hu/wp-content/uploads/2026/10/Felveteli-tajekoztato-2026_2027-1.docx) explicitly covers 2027/2028 despite its filename. 0004 has **30 planned places** and the same **60+100+40** formula below. **Clergy characterization deadline: 23 January 2027**, submitted personally or by post; a school religious-education teacher's recommendation does not replace it. Four-year oral: **3 March 2027**, make-up **4–5 March**. [Full update](../admissions/updates-2026-10-15.md).
+
 ## School-grade points
 
 The four-year program uses end-of-grade-7 and first-semester-grade-8 grades in Hungarian grammar, literature, history, mathematics, foreign language, geography, chemistry, biology, and physics. The published scoring caps this component at 60.
