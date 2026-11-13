@@ -12,7 +12,7 @@
 | **4.** | **Budapest School JPP** | Itt még nincs rögzítve | Nincs összehasonlítható számszerű küszöb |
 | **5.** | **Gábor Dénes, Isaszeg – általános gimnázium, 4 év** | **0002** | **93/200** |
 
-A három TIG-képzés a történeti végső ponthatár csökkenő sorrendjében szerepel; utánuk JPP, majd az isaszegi általános gimnázium következik. **A TIG emelt német (1030) nincs a listán.** A ponthatárok történeti viszonyítási adatok, nem a következő felvételi garanciái. A többi kutatott iskola jelenleg nem szerepel a családi rövidlistán.
+A három TIG-képzés a történeti végső ponthatár csökkenő sorrendjében szerepel; utánuk JPP, majd az isaszegi általános gimnázium következik. **A TIG emelt német (1030) nincs a listán.** A ponthatárok történeti viszonyítási adatok, nem a következő felvételi garanciái. **VIK és Bárdos újonnan felvett jelöltek; a számozott sorrendben még nincs kijelölt helyük.** A többi kutatott iskola háttérlehetőség.
 
 [Kezdőlap](Kezd%C5%91lap.md) · [Összehasonlítás](%C3%96sszehasonl%C3%ADt%C3%A1s.md) · [Naptár](Napt%C3%A1r.md) · [Közlekedés](K%C3%B6zleked%C3%A9s.md)
 
@@ -22,7 +22,7 @@ A három TIG-képzés a történeti végső ponthatár csökkenő sorrendjében 
 
 **Kutatás dátuma:** 2026-09-21 · **Felvételi frissítés:** 2026-11-13
 
-> **[2026. november 13-i frissítés](Arch%C3%ADvum/2026-11-13%20%E2%80%93%20felv%C3%A9teli%20friss%C3%ADt%C3%A9s.md):** A TIG novemberi alkalmai beteltek; új időpont: **december 2., 17:00**. A VERKA korábbi alkalmai is beteltek; új időpont: **november 26., 16:00**. Református: **november 17., 15:00**. Premontrei: **november 19. / 26., 17:00**, regisztráció nélkül. JPP: **november 24., 09:50**; Isaszeg: **december 3., 08:00**, foglalható. **EGA: eltérő szóbeli dátumok (március 6. / 13.), közvetlenül tisztázandó.**
+> **[2026. november 13-i frissítés](Arch%C3%ADvum/2026-11-13%20%E2%80%93%20felv%C3%A9teli%20friss%C3%ADt%C3%A9s.md):** A TIG novemberi alkalmai beteltek; új időpont: **december 2., 17:00**. A VERKA korábbi alkalmai is beteltek; új időpont: **november 26., 16:00**. JPP: **november 24., 09:50**; Isaszeg: **december 3., 08:00**, foglalható. **EGA: eltérő szóbeli dátumok (március 6. / 13.), közvetlenül tisztázandó.**
 
 **Cél:** 8. osztály utáni, várhatóan 2027/2028-as beiskolázás.
 
@@ -34,11 +34,22 @@ A három TIG-képzés a történeti végső ponthatár csökkenő sorrendjében 
 2. **A „digitális média” hivatalos neve digitális kultúra.** Nem kreatív média szak: digitális eszközhasználat, adattárolás, multimédia, Office, online kommunikáció, algoritmizálás és logika is szerepel benne.
 3. **A Budapest School JPP teljesen más iskolatípus.** Mentorálás, projektek és személyre szabott út; ugyanakkor havi 228 000 Ft, hosszú ingázás, és a gimnáziumi eredményességéről rövidebb idősor áll rendelkezésre.
 4. **A Szerb Antal tanulmányilag nagyon erős választás**, de a napi kb. 70 perces egyirányú tömegközlekedés komoly életminőségi költség.
-5. **A legfontosabb hiányzó iskola a listáról a helyi Premontrei Szent Norbert Gimnázium.** A HVG 2026-os listáján a gödöllői iskolák közül ez állt a legjobban. Ha a katolikus/hitéleti keret elfogadható, mindenképpen érdemes felvenni.
-6. **A Gödöllői Református Líceum is erős, közeli tartalék vagy akár előrébb sorolandó opció.** A HVG 2026-os rangsorában a három gödöllői gimnázium közül második volt.
-7. **A Veresegyházi Katolikus Gimnáziumot (VERKA) is érdemes felvenni, elsősorban a 0001 humán–angol és 0003 reál–angol képzést.** Jelenlegi pedagógiai programja vallásgyakorlás és felekezeti kötődés nélküli, keresztény értékekre nyitott fiatalokat is fogad; a korábbi felvételi GYIK ilyen családoktól nem kér lelkészi ajánlást. Emiatt különösen releváns egyházi alternatíva. Az új kiírás ezeket megerősíti; az ingázás még ellenőrizendő.
+5. **A Veresegyházi Katolikus Gimnáziumot (VERKA) is érdemes felvenni, elsősorban a 0001 humán–angol és 0003 reál–angol képzést.** Jelenlegi pedagógiai programja vallásgyakorlás és felekezeti kötődés nélküli, keresztény értékekre nyitott fiatalokat is fogad; a korábbi felvételi GYIK ilyen családoktól nem kér lelkészi ajánlást. Emiatt különösen releváns egyházi alternatíva. Az új kiírás ezeket megerősíti; az ingázás még ellenőrizendő.
 
-8. **Vizsgáljuk meg az isaszegi Gábor Dénest (SZISZI) mint potenciálisan kevésbé szelektív alternatívát.** Aktuális 2027/2028-as kínálata: **0002 négyéves általános gimnázium**, **0001 ötéves informatikai rendszer- és alkalmazásüzemeltető technikum**. Fenntartója a **Magyar Pünkösdi Egyház**, nem világi állami iskola. A vallási elvárások és összevethető tanulmányi eredmények még tisztázandók. Nyílt napok: **2026. november 4. és december 3., 08:00**. [Kutatás](Iskol%C3%A1k/G%C3%A1bor%20D%C3%A9nes%20%E2%80%93%20Isaszeg.md#R%C3%A9szletes%20felv%C3%A9teli%20tudnival%C3%B3k).
+6. **Vizsgáljuk meg az isaszegi Gábor Dénest (SZISZI) mint potenciálisan kevésbé szelektív alternatívát.** Aktuális 2027/2028-as kínálata: **0002 négyéves általános gimnázium**, **0001 ötéves informatikai rendszer- és alkalmazásüzemeltető technikum**. Fenntartója a **Magyar Pünkösdi Egyház**, nem világi állami iskola. A vallási elvárások és összevethető tanulmányi eredmények még tisztázandók. Nyílt napok: **2026. november 4. és december 3., 08:00**. [Kutatás](Iskol%C3%A1k/G%C3%A1bor%20D%C3%A9nes%20%E2%80%93%20Isaszeg.md#R%C3%A9szletes%20felv%C3%A9teli%20tudnival%C3%B3k).
+
+## Új jelöltek: VIK és Bárdos
+
+**2026. november 13.:** Mindkettő bekerült a vizsgálandó iskolák közé; a korábban rögzített öt hely sorrendje változatlan, az új jelöltek helye még eldöntendő.
+
+| Iskola | Képzés | Pontszámítás | 2026-os történeti végső pont | Keletitől gyalog |
+|---|---|---|---:|---:|
+| [VIK](Iskol%C3%A1k/VIK.md) | 0051 általános gimnázium, angol NYEK, 1+4 év | 50 hozott + 100 írásbeli + 50 szóbeli | 91; jelenlegi maximum 200 | 3 perc / 240 m |
+| [Bárdos](Iskol%C3%A1k/B%C3%A1rdos.md) | 0001 angol / 0002 matematika / 0003 komplex humán, 4 év | Külsősök: 40 hozott + 75 súlyozott írásbeli + 35 szóbeli | 100 / 100 / 101; jelenlegi maximum 150 | 10 perc / 750 m |
+
+A történeti pontok forrása a jegyzetekben hivatkozott Sulinavigátor; a jelenlegi képleteket a hivatalos 2027/2028-as tájékoztatók adják. Eltérő pontozásból nem következik közvetlenül azonos nehézség vagy iskolai színvonal. VIK felvételi hozzáférhetősége alapján lehet alternatíva GD mellett; Bárdos angolos profilja illik a TIG-választásokhoz. **Az új eredményalapú értékelés Bárdost támogatja elsőként: átlagos gimnáziumi alapok és erősebb angol. VIK vegyes eredményű, feltételes tartalék; GD-nél is látható akadémiai kockázat.** A részletes számok és forráskorlátok az iskolajegyzetekben szerepelnek. Előzetes szakmai javaslat: Bárdos GD elé; VIK/GD sorrendjéhez a gimnáziumi közeg és emelt felkészítés vizsgálata szükséges. Ez nem változtatja meg automatikusan a család rögzített sorrendjét.
+
+**Családi szempont:** Kion szereti a médiát, filmet és fotózást, de fontos a kellően erős általános képzés és a továbbtanulási lehetőségek megőrzése. A könnyebb bekerülés önmagában nem elég a választáshoz.
 
 ## Fontos időzítés
 
@@ -62,11 +73,12 @@ Források: [BPS JPP GYIK](https://opendays.budapestschool.org/gyik/), [Szerb hiv
 
 ## Iskolák részletesen
 
+- [VIK](Iskol%C3%A1k/VIK.md)
+- [Bárdos](Iskol%C3%A1k/B%C3%A1rdos.md)
+
 - [Török Ignác](Iskol%C3%A1k/T%C3%B6r%C3%B6k%20Ign%C3%A1c.md)
 - [Budapest School JPP](Iskol%C3%A1k/Budapest%20School%20JPP.md)
 - [Szerb Antal](Iskol%C3%A1k/Szerb%20Antal.md)
-- [Premontrei](Iskol%C3%A1k/Premontrei.md)
-- [Református Líceum](Iskol%C3%A1k/Reform%C3%A1tus%20L%C3%ADceum.md)
 - [Aszód EGA](Iskol%C3%A1k/Asz%C3%B3d%20EGA.md)
 - [VERKA](Iskol%C3%A1k/VERKA.md)
 - [Gábor Dénes – Isaszeg](Iskol%C3%A1k/G%C3%A1bor%20D%C3%A9nes%20%E2%80%93%20Isaszeg.md)
@@ -81,8 +93,6 @@ Források: [BPS JPP GYIK](https://opendays.budapestschool.org/gyik/), [Szerb hiv
 | BPS JPP | 4 év körüli középiskolai út | saját kiválasztás; 2026-ban 37 nyilvános felvett azonosító | 63 perc | **48–55 perc** | mentor, projekt, egyéni út | 228 ezer Ft/hó, ingázás, rövidebb eredmény-idősor |
 | Szerb 0021 | 4 év | 126/150; 28 hely | 70 perc | **48–55 perc** | erős angol, erős gimnázium | napi hosszú ingázás |
 | Szerb 0031 | — | csak történeti adat | — | — | **2027/2028-ban nem indul** | törlendő a listáról |
-| Premontrei | 4 év | 2026-os saját, 400 pontos rendszer | 24 perc | **6 perc**, végig kerékpárral | nyelvi vagy természettudomány | hitéleti illeszkedés |
-| Református Líceum | 4 év | 200 pontos rendszer | 28 perc | **10 perc**, végig kerékpárral | általános, erős helyi gimi | hitéleti illeszkedés |
 | Aszód EGA | 4 év | képzéstől függően 150/190 pont | 48 perc | **28–35 perc** | általános, angol, biológia | közepes ingázás, keresztségi feltétel |
 | VERKA 0001 / 0003 | 4 év | 155,7 / 152 a 200-ból; 24–24 hely | **Nem ellenőrzött** | **Nem ellenőrzött** | humán–angol vagy reál–angol | katolikus illeszkedés, 50 pontos szóbeli, útvonalpróba |
 | Isaszeg 0002 gimnázium / 0001 technikum | 4 / 5 év | közölt végső pontok 93 / 69; 24–24 hely | **49 perc**, reggeli példa | **~35–40 perc**, megállónál hagyott bicikli + 447 | általános gimnázium / szakmai IT-üzemeltetés | pünkösdi egyházi illeszkedés, szóbeli, hiányzó eredményadatok, szűk érkezési tartalék |
@@ -112,13 +122,11 @@ Az alábbi korábbi kutatási példákat megőrizzük háttérként. A család a
 2. TIG 1020 emelt angol
 3. TIG 1080 digitális kultúra
 4. VERKA 0001 humán–angol vagy 0003 reál–angol — előzetesen, keresztény illeszkedés és ellenőrzött ingázás mellett
-5. Premontrei angol vagy természettudományos
-6. Református Líceum
-7. Szerb 0021 (0031 már nem indul)
-8. BPS JPP
-9. Aszód EGA 0002 általános, **csak a keresztségi feltétel teljesülése esetén**
+5. Szerb 0021 (0031 már nem indul)
+6. BPS JPP
+7. Aszód EGA 0002 általános, **csak a keresztségi feltétel teljesülése esetén**
 
-A Premontrei/Református csak a vallási feltételek teljesülése esetén jön szóba. Az EGA is keresztséget vagy annak engedélyezett vállalását kéri, ezért **nem feltétel nélküli biztonsági iskola nem vallásos családnak**. A BPS és Szerb egymáshoz viszonyított helye teljesen gyermekfüggő. Az Aszód 0002-nek volt a legalacsonyabb közzétett számszerű ponthatára ebben a körben: 2026-ban 87/150, 2023–2026 között 84–104/150. Maximális hozott ponttal ez történelmileg csak 34–54/100 pontos központit igényelt, szóbeli nélkül.
+Az EGA keresztséget vagy annak engedélyezett vállalását kéri, ezért **nem feltétel nélküli biztonsági iskola nem vallásos családnak**. A BPS és Szerb egymáshoz viszonyított helye teljesen gyermekfüggő. Az Aszód 0002-nek volt a legalacsonyabb közzétett számszerű ponthatára ebben a körben: 2026-ban 87/150, 2023–2026 között 84–104/150. Maximális hozott ponttal ez történelmileg csak 34–54/100 pontos központit igényelt, szóbeli nélkül.
 
 ### Ha a gyermek informatikai érdeklődésű
 
@@ -126,9 +134,8 @@ A Premontrei/Református csak a vallási feltételek teljesülése esetén jön 
 2. TIG 1020 emelt angol
 3. TIG 1010 kéttannyelvű
 4. VERKA 0003 reál–angol — a tényleges informatikai tartalom, vallási illeszkedés és útvonal ellenőrzése után
-5. Premontrei természettudományos
-6. BPS JPP, ha az önálló projektmunka erőssége
-7. Szerb
+5. BPS JPP, ha az önálló projektmunka erőssége
+6. Szerb
 
 ### Ha érzelmi biztonság, rugalmasság és mentorálás a legfontosabb
 
@@ -171,10 +178,10 @@ Az iskolaspecifikus kérdéseket az egyes iskolák jegyzeteibe rendeztük.
 3. TIG esetén gyakorolja külön:
    - angol szövegértés és képleírás;
    - digitális kultúránál algoritmikus-logikai feladatok és digitális alapismeretek.
-4. 2026 október–novemberben töltsük le minden iskola **2027/2028-as hivatalos felvételi tájékoztatóját**.
-5. Menjünk el nyílt napra: TIG, VERKA, Premontrei, Református Líceum, BPS JPP, Szerb; a VERKA aktuális dátumáért figyeljük a felvételi oldalt.
-6. Próbáljuk ki a BPS és Szerb útvonalát hétköznap reggel, tényleges becsengetésre.
-7. A végső sorrendet a gyermekkel közösen, valódi preferencia szerint adjuk meg.
+1. 2026 október–novemberben töltsük le minden iskola **2027/2028-as hivatalos felvételi tájékoztatóját**.
+2. Menjünk el nyílt napra: TIG, VERKA, VIK, Bárdos, BPS JPP, Szerb; a VERKA aktuális dátumáért figyeljük a felvételi oldalt.
+3. Próbáljuk ki a BPS és Szerb útvonalát hétköznap reggel, tényleges becsengetésre.
+4. A végső sorrendet a gyermekkel közösen, valódi preferencia szerint adjuk meg.
 
 ---
 
@@ -187,11 +194,8 @@ Az iskolaspecifikus kérdéseket az egyes iskolák jegyzeteibe rendeztük.
 - [Szerb – hivatalos pontszámok és statisztikák](https://szag16.hu/beiskolazas/pontszamok-statisztikak)
 - [BPS JPP – hivatalos oldal](https://opendays.budapestschool.org/micro-schools/jpp)
 - [BPS – hozzájárulás](https://opendays.budapestschool.org/tandij/)
-- [Premontrei – felvételi](https://iskolakozpont.premontrei.hu/felvetelizoknek/a-felveteli-eljaras-menete)
-- [Református Líceum](https://grl.hu/)
 - [Aszódi Evangélikus Gimnázium](https://www.egaaszod.hu/)
 - [VERKA – hivatalos felvételi oldal](https://verka.hu/erdeklodoknek/felveteli-informaciok/) és [részletes kutatás](Iskol%C3%A1k/VERKA.md#R%C3%A9szletes%20felv%C3%A9teli%20tudnival%C3%B3k)
-- [HVG 2026 gödöllői rangsor összefoglaló](https://godolloihirek.hu/cikkek/2025/11/04/mindennapi/ot-ev-atlagaban-a-premontrei-gimnazium-vezeti-a-godolloi-tanodak-kozepiskolai-rangsorat)
 
 
 ## Pontszámítások
@@ -204,16 +208,16 @@ A történeti ponthatárok többnyire a lezárt **2026/2027-es felvételiből** 
 
 | Iskola | Hozott pont | Maximum | Megjegyzés |
 |---|---:|---:|---|
+| [VIK](Iskol%C3%A1k/VIK.md#Pontsz%C3%A1m%C3%ADt%C3%A1s) | **50** | 50 | Öt tárgy, 7. év vége és 8. félév |
+| [Bárdos](Iskol%C3%A1k/B%C3%A1rdos.md#Pontsz%C3%A1m%C3%ADt%C3%A1s) | **40** | 40 | Külsős jelentkező; négy tárgy, 7. év vége és 8. félév |
 | [Török Ignác](Iskol%C3%A1k/T%C3%B6r%C3%B6k%20Ign%C3%A1c.md#Pontsz%C3%A1m%C3%ADt%C3%A1s) | **50** | 50 | Maximális |
 | [Szerb Antal](Iskol%C3%A1k/Szerb%20Antal.md#Pontsz%C3%A1m%C3%ADt%C3%A1s) | **50** | 50 | Maximális |
-| [Premontrei](Iskol%C3%A1k/Premontrei.md#Pontsz%C3%A1m%C3%ADt%C3%A1s) | **100** | 100 | Maximális |
 | [Budapest School JPP](Iskol%C3%A1k/Budapest%20School%20JPP.md#Pontsz%C3%A1m%C3%ADt%C3%A1s) | Nincs számszerű képlet | — | Összetett illeszkedési folyamat |
-| [Református Líceum](Iskol%C3%A1k/Reform%C3%A1tus%20L%C3%ADceum.md#Pontsz%C3%A1m%C3%ADt%C3%A1s) | **60** | 60 | Maximális |
 | [Aszód EGA](Iskol%C3%A1k/Asz%C3%B3d%20EGA.md#Pontsz%C3%A1m%C3%ADt%C3%A1s) | **50** | 50 | Maximális |
 | [VERKA](Iskol%C3%A1k/VERKA.md#Pontsz%C3%A1m%C3%ADt%C3%A1s) | **50** | 50 | A megfelelő nyelvi jegyek megléte szükséges; aktuális képlet igazolt |
 | [Gábor Dénes, Isaszeg](Iskol%C3%A1k/G%C3%A1bor%20D%C3%A9nes%20%E2%80%93%20Isaszeg.md#Pontsz%C3%A1m%C3%ADt%C3%A1s) | **60** | 60 | Aktuális képlet; BPS-tantárgyak és digitális kultúra megfeleltetése tisztázandó |
 
-Maximális hozott pont mellett a központi magyar- és matematikafelvételi, az esetleges szóbeli, valamint a jogosultsági feltételek döntenek. Premontrei, Református és EGA esetén a hitéleti feltételek különösen fontosak. JPP-nél az illeszkedési folyamat számít.
+Maximális hozott pont mellett a központi magyar- és matematikafelvételi, az esetleges szóbeli, valamint a jogosultsági feltételek döntenek. EGA esetén a hitéleti feltételek különösen fontosak. JPP-nél az illeszkedési folyamat számít.
 
 A VERKA aktuális GYIK-je a keresztény értékeket elfogadó, szoros felekezeti kötődés nélküli családoktól nem kér lelkészi ajánlást; a magyar/idegen nyelvi szóbeli és a katolikus közösséghez való illeszkedés ettől még része a folyamatnak. Isaszegnél a 40 pontos szóbeli értékelése, a magatartás/szorgalom kezelése, az aktuális behívási minimum és a nem vallásos családok jogosultsága még tisztázandó.
 

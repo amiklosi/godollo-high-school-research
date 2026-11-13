@@ -65,7 +65,7 @@ Források: [felvételi oldal](https://verka.hu/erdeklodoknek/felveteli-informaci
 
 **Érdemes felvenni a listára, elsősorban a 0001 humán–angol és a 0003 reál–angol képzést.** Hagyományos gimnáziumi tanulás, erős nyelvi irány és keresztény közösség, ugyanakkor a hivatalos dokumentumok kifejezetten fogadnak vallásukat nem gyakorló, felekezeti kötődéssel nem rendelkező, de a keresztény értékekre nyitott diákokat is.
 
-Ez fontos különbség a Premontrei/Református/EGA felvételi akadályaihoz képest. **Nem világnézetileg semleges iskola**, és az 50 pontos szóbeli miatt nem szóbeli nélküli biztonsági opció. A konkrét sorrendet csak látogatás, ingázási próba és az új tájékoztató ellenőrzése után érdemes eldönteni.
+Ez fontos különbség az EGA felvételi akadályaihoz képest. **Nem világnézetileg semleges iskola**, és az 50 pontos szóbeli miatt nem szóbeli nélküli biztonsági opció. A konkrét sorrendet csak látogatás, ingázási próba és az új tájékoztató ellenőrzése után érdemes eldönteni.
 
 ### Alapadatok és költség
 

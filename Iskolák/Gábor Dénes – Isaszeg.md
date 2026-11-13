@@ -2,6 +2,18 @@
 
 [Kezdőlap](../Kezd%C5%91lap.md) · [Összehasonlítás](../%C3%96sszehasonl%C3%ADt%C3%A1s.md) · [Naptár](../Napt%C3%A1r.md) · [Közlekedés](../K%C3%B6zleked%C3%A9s.md)
 
+## Tartalékiskolák értékelése – 2026. november 13.
+
+**Új következtetés: GD felvételi tartalék szerepe indokolható, de az akadémiai minimumigényt nem tekintjük automatikusan teljesítettnek. Bárdos előzetesen erősebb jelölt; VIK és GD sorrendje feltételes.**
+
+SuliMérleg, 2026, **gimnáziumi 10. évfolyam**: matematika **1609 / 1729**, szövegértés **1550 / 1677** (iskola / gimnáziumi átlag); mindkettőt gyengébbnek jelöli. Az általános iskola és technikum adatait nem helyettesítjük be. A teljes intézmény 24%-os emeltvizsga-aránya nem tiszta gimnáziumi mutató.
+
+**Történeti közösségi kockázat:** 2024. augusztusban a 24.hu 12 tanár távozásáról számolt be. A fenntartó helyesbítése szerint 55 pedagógus dolgozott az intézményben, az öt távozó osztályfőnököt pótolták, és maradtak matematikatanárok. Ez nem igazol mai tanárhiányt, de indokolja a 2025/26–2026/27-es gimnáziumi tanári fluktuáció és helyettesítések konkrét megkérdezését.
+
+Források: [SuliMérleg](https://sulimerleg.hu/iskola/gabor-denes-ovoda-altalanos-iskola-gimnazium-es-technikum-032630/), [24.hu – 2024-es tudósítás és fenntartói helyesbítés](https://24.hu/belfold/2024/08/30/isaszeg-gabor-denes-iskola-12-tanar-felmondott-punkosdi-egyhaz/).
+
+**Forráskorlát:** a kompetencia- és érettségi számok a SuliMérleg OH/KIR-adatösszesítéséből származnak. Az OH érettségi keresőjét CDP-ben is megnyitottuk, de rendszerfrissítés/munkamenethiba miatt az egyéni intézményi eredmény nem volt visszaellenőrizhető. Az évfolyamátlag nem önmagában tanári hozzáadott érték vagy közösségi minőség. A különböző évek pontjait az adott évi gimnáziumi átlaghoz viszonyítjuk.
+
 ## Aktuális állapot
 
 **2026. november 13-i ellenőrzés:** A **2026. december 3., 08:00** nyílt nap foglalható, fiók szükséges. Az írásbelire már **december 1-ig** jelentkezni kell. [Források és részletes ellenőrzés](../Arch%C3%ADvum/2026-11-13%20%E2%80%93%20felv%C3%A9teli%20friss%C3%ADt%C3%A9s.md).

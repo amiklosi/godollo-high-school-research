@@ -14,7 +14,7 @@ Nyolcadik utáni iskolaválasztás Gödöllőn és környékén, a **2027/2028-a
 | **4.** | **Budapest School JPP** | Itt még nincs rögzítve | Nincs összehasonlítható számszerű küszöb |
 | **5.** | **Gábor Dénes, Isaszeg – általános gimnázium, 4 év** | **0002** | **93/200** |
 
-A három TIG-képzés a történeti végső ponthatár csökkenő sorrendjében szerepel; utánuk JPP, majd az isaszegi általános gimnázium következik. **A TIG emelt német (1030) nincs a listán.** A ponthatárok történeti viszonyítási adatok, nem a következő felvételi garanciái. A többi kutatott iskola jelenleg nem szerepel a családi rövidlistán.
+A három TIG-képzés a történeti végső ponthatár csökkenő sorrendjében szerepel; utánuk JPP, majd az isaszegi általános gimnázium következik. **A TIG emelt német (1030) nincs a listán.** A ponthatárok történeti viszonyítási adatok, nem a következő felvételi garanciái. **VIK és Bárdos újonnan felvett jelöltek; a számozott sorrendben még nincs kijelölt helyük.** A többi kutatott iskola háttérlehetőség.
 
 ## Innen indulj
 
@@ -31,11 +31,14 @@ Minden iskola jegyzetében együtt szerepel a bemutatás, felvételi, pontszám�
 - [Budapest School JPP](Iskol%C3%A1k/Budapest%20School%20JPP.md)
 - [Gábor Dénes – Isaszeg](Iskol%C3%A1k/G%C3%A1bor%20D%C3%A9nes%20%E2%80%93%20Isaszeg.md)
 
+### Új jelöltek – sorrendjük még nincs rögzítve
+
+- [VIK](Iskol%C3%A1k/VIK.md)
+- [Bárdos](Iskol%C3%A1k/B%C3%A1rdos.md)
+
 ### További, korábban kutatott iskolák
 
 - [Szerb Antal](Iskol%C3%A1k/Szerb%20Antal.md)
-- [Premontrei](Iskol%C3%A1k/Premontrei.md)
-- [Református Líceum](Iskol%C3%A1k/Reform%C3%A1tus%20L%C3%ADceum.md)
 - [Aszód EGA](Iskol%C3%A1k/Asz%C3%B3d%20EGA.md)
 - [VERKA](Iskol%C3%A1k/VERKA.md)
 
@@ -44,7 +47,6 @@ Minden iskola jegyzetében együtt szerepel a bemutatás, felvételi, pontszám�
 - **December 1.:** jelentkezés a központi írásbelire. A decemberi nyílt napokat nem szabad megvárni vele.
 - **TIG:** a novemberi alkalmak beteltek; december 2., 17:00 az új időpont.
 - **VERKA:** új foglalható alkalom november 26., 16:00.
-- **Református:** november 17., 15:00; **Premontrei:** november 19. / 26., 17:00, regisztráció nélkül.
 - **JPP:** november 24., 09:50; **Isaszeg:** december 3., 08:00.
 - **EGA:** a március 6-i és 13-i szóbeli dátumok közötti ellentmondás tisztázandó.
 

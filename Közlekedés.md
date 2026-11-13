@@ -4,13 +4,23 @@
 
 Minden idő **egy irányra** értendő. A jelenlegi menetrend nem igazolja a 2027. szeptemberi közlekedést. A Maps kerékpáros menetideje nem bizonyítja az útvonal biztonságosságát.
 
+## Keleti környéki új jelöltek – 2026. november 13.
+
+Azonos Keleti pályaudvar kiindulóponttal, Google Maps gyalogos útvonalak:
+
+| Iskola | Keletitől gyalog | Útvonal |
+|---|---:|---|
+| JPP | 10 perc / 650 m | [Maps](https://www.google.com/maps/dir/?api=1&origin=Budapest+Keleti+palyaudvar&destination=Budapest+II.+Janos+Pal+papa+ter+25&travelmode=walking) |
+| [VIK](Iskol%C3%A1k/VIK.md) | **3 perc / 240 m** | [Hernád u. 3.](https://www.google.com/maps/dir/?api=1&origin=Budapest+Keleti+palyaudvar&destination=Budapest+Hernad+utca+3&travelmode=walking) |
+| [Bárdos](Iskol%C3%A1k/B%C3%A1rdos.md) | **10 perc / 750 m** | [Alsóerdősor u. 14.](https://www.google.com/maps/dir/?api=1&origin=Budapest+Keleti+palyaudvar&destination=Budapest+Alsoerdosor+utca+14&travelmode=walking) |
+
+Ezek csak az állomástól mért séták, nem teljes otthon–iskola menetidők. Peron/kijárat, reggeli vonat és órakezdés ellenőrizendő; JPP későbbi kezdése miatt azonos út mellett is eltérhet az indulás ideje.
+
 ## Áttekintés
 
 | Iskola | Autó | Tömegközlekedés gyaloglással | Kerékpáros változat | Bizonyíték és korlát |
 |---|---:|---:|---|---|
 | TIG | ~10 perc | ~26 perc | **~10 perc közvetlenül** | Korábbi becslés; reggeli út és biztonság nem ellenőrizve újra. |
-| Premontrei | ~5 perc | ~24 perc; gyalog is ~24 perc | **~6 perc közvetlenül** | Korábbi becslés; kerékpáros biztonság nincs ellenőrizve. |
-| Református | ~8 perc | ~28 perc | **~10 perc közvetlenül** | Korábbi becslés; kerékpáros biztonság nincs ellenőrizve. |
 | JPP | ~42 perc | ~63 perc | **~48–55 perc összecsukható kerékpár + vonat**, kerékpár a vonaton | Tervezési becslés, nem ellenőrzött iskolareggeli út. |
 | Szerb | ~27 perc | ~70 perc | **~48–55 perc összecsukható kerékpár + HÉV**, kerékpár a járművön | Tervezési becslés, nem ellenőrzött iskolareggeli út. |
 | EGA | ~22 perc | ~47–48 perc nappali példa | **~48–53 perc Máriabesnyőn hagyott kerékpár + vonat + séta** | Reggeli vonat azonosítva; az állomástól 25 perc gyalog. Tárolás/biztonság nincs ellenőrizve. |

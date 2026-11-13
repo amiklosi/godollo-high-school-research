@@ -1,6 +1,6 @@
 # Felvételi naptár – 2027. szeptemberi belépés
 
-**Cél:** nyolcadik utáni felvételi a **2027/2028-as tanévre**. Iskolák: TIG, JPP, Szerb Antal, Premontrei, Református Líceum, Aszód EGA, VERKA, Gábor Dénes (Isaszeg).
+**Cél:** nyolcadik utáni felvételi a **2027/2028-as tanévre**. Iskolák: TIG, JPP, Szerb Antal, VIK, Bárdos, Aszód EGA, VERKA, Gábor Dénes (Isaszeg).
 
 **Időzóna:** magyar helyi idő (Europe/Budapest). Az országos dátumok a 2026/2027-es tanévrendelet 1. melléklete alapján szerepelnek. Az iskolai eseményeket utoljára **2026. november 13-án** ellenőriztük; [részletes ellenőrzés és forráskorlátok](Arch%C3%ADvum/2026-11-13%20%E2%80%93%20felv%C3%A9teli%20friss%C3%ADt%C3%A9s.md). Indulás előtt újra ellenőrizendők. A még ismeretlen időpontokat külön jelöljük.
 
@@ -10,17 +10,21 @@
 
 - **TIG:** a novemberi alkalmak beteltek. Új időpont: **december 2., 17:00**; csak egy alkalomra kell jelentkezni.
 - **VERKA:** a korábbi alkalmak beteltek; új **november 26., 16:00** időpont nyílt. A visszaigazolást kövessük, ne az eltérő honlapnaptárt.
-- **November 17., 15:00:** Református tájékoztató a templomban, majd iskolabejárás.
-- **November 19. / 26., 17:00:** Premontrei, B épület aulája; nincs regisztráció.
 - **November 24., 09:50:** JPP; november 13-án még voltak szabad diákhelyek.
 - **December 3., 08:00:** Isaszeg; a foglaló már ezt a napot kínálja.
 - **December 1.:** központi írásbeli jelentkezési határidő. Mindkét decemberi látogatás ezután van.
 - **EGA:** tisztázandó a szóbeli napja: az új hirdetmény **március 6-ot**, a PDF **március 13-at** közöl.
 
+## Új jelöltek: VIK és Bárdos
+
+- [VIK](Iskol%C3%A1k/VIK.md): következő nyílt nap és egyéni szóbeli időpont ellenőrizendő.
+- [Bárdos](Iskol%C3%A1k/B%C3%A1rdos.md): november 4-i nyílt nap elmúlt; új látogatási lehetőség egyeztetendő. A hivatalos tájékoztató **2027. március 8–10.** közé teszi a szóbeliket.
+- Mindkét iskolánál fontos a tényleges emelt érettségi felkészítés, eredmények és órakezdés megismerése.
+
 ## Legfontosabb határidők
 
 - **2026. december 1.:** jelentkezés a központi írásbelire.
-- **2027. január 23., 10:00:** központi írásbeli; **a Református lelkészi jellemzésének határideje is ez a nap**.
+- **2027. január 23., 10:00:** központi írásbeli.
 - **Február 22.:** iskolai/KIFIR-jelentkezés; a BPS belső leadási határideje korábbi lehet.
 - **Április 6–8.:** sorrendmódosítás.
 - **Május 7-ig:** felvételi/elutasító döntések kiküldése.
@@ -44,8 +48,6 @@
 | **Nov. 4., 18:00** | VERKA: foglalásnyitás | Már megtörtént. [Hirdetmény](https://verka.hu/teadelutan-es-felveteli-tajekoztato-5/) · [foglaló](https://kozpont.verka.hu:10788/SES/teareg/). |
 | **Nov. 5–6.** | EGA nyolcadikos nyílt napok | Elmúltak; kezdési idő nem lett rögzítve, részvételt nem feltételezünk. |
 | **Nov. 16.** | OH: az írásbeli vizsgaközpontok listájának közzététele | Helyszínválasztás, jelentkezési mód, visszaigazolás és vizsganapi szabályok ellenőrzése. |
-| **Nov. 17., 15:00** | Református tájékoztató | [Módosított időpont](https://grl.hu/idopontvaltozas-igy-keszulj-a-liceumi-felvetelire/): templomi tájékoztató, iskolabejárás, magyar/matematika/hittan felvételi tanácsok. Regisztrációs feltételt nem közöl. |
-| **Nov. 19. / 26., 17:00** | Premontrei tájékoztató | [Hivatalos oldal](https://iskolakozpont.premontrei.hu/felvetelizoknek/altalanos-tajekoztato): B épület aulája, Takács Menyhért út 2.; **regisztráció nélkül**. |
 | **Nov. 19. / dec. 10., 18:00** | BPS online szülői fórum | [Eseménylista](https://opendays.budapestschool.org/nyiltnapok/): családi tapasztalatok / milyen gyereknek való a BPS. Hálózati, nem JPP-specifikus. |
 | **Nov. 20., 23., 26.** | VERKA teadélutánok | **A korábbi alkalmak beteltek; november 26., 16:00 újonnan megnyílt** a [foglaló](https://kozpont.verka.hu:10788/SES/teareg/) szerint. A visszaigazolás időpontját kövessük. |
 | **Nov. 24., 09:50** | JPP nyílt nap | [Részletek és foglalás](https://opendays.budapestschool.org/open-day-registration/39ab2f8c-f9d8-4343-ba22-369db2fae696). Órák: 09:55–10:40 és 10:55–11:40; sávonként egy óra, csak egy sáv is választható. Szülői program 09:55–11:40, külön regisztráció nélkül. |
@@ -57,7 +59,7 @@
 
 - [ ] JPP november 24-i diákórák lefoglalása; szülőknek nem kell külön jelentkezni.
 - [ ] Ha volt Szerb-látogatás, a tapasztalatok és kérdések rögzítése.
-- [ ] TIG/VERKA/Isaszeg még elérhető alkalmainak foglalása; EGA novemberi napjai elmúltak, Premontrei nem kér regisztrációt.
+- [ ] TIG/VERKA/Isaszeg még elérhető alkalmainak foglalása; EGA novemberi napjai elmúltak. VIK/Bárdos következő látogatási lehetősége ellenőrizendő.
 - [ ] BPS-mentorral egyeztetés a JPP belső továbbhaladásról és a KIFIR-ről.
 - [ ] Lelkészi dokumentumok és motivációs levelek előkészítése.
 - [ ] EGA keresztségi jogosultságának vagy egyedi igazgatói engedélyének tisztázása.
@@ -70,7 +72,6 @@
 |---|---|---|
 | **Jan. 22.** | Az első félév vége | A hivatalos 8. félévi jegyek beszerzése; a kutatás csupa ötös feltételezése nem igazolás. |
 | **Jan. 23., 10:00** | Központi írásbeli | A vizsgaközpont érkezési, azonosítási és eszközszabályait kell követni. Isaszeg oldalának teteje **09:00 érkezést, 10:00 kezdést** ad; alább félreérthetően 09:00-t ír vizsgaidőként. A helyszín utasítását tisztázni kell, nem országos kezdésváltozásról van szó. |
-| **Jan. 23.** | Református: lelkészi jellemzés határideje | Személyesen vagy postán; a beérkezést időben biztosítani kell. Iskolai hitoktatói ajánlás nem helyettesíti. |
 | **Jan. 29-ig** | Félévi eredmények közlése | Félévi értesítő, szükséges hiteles másolatok ellenőrzése. |
 | **Jan. 29., 08:00–16:00** | EGA: dolgozatbetekintés | A jelenlegi tájékoztató szerint; az ott vizsgázóknak. |
 | **Febr. 1., 08:00–16:00** | TIG: dolgozatbetekintés | Az aktuális PDF szerint; az ott vizsgázóknak. |
@@ -91,8 +92,6 @@
 | **Márc. 1–19.** | Országos szóbeli/alkalmassági időszak | Meghívók, egyéni időpontok, dokumentumok és pótnapok követése. |
 | **Márc. 1–5.** | VERKA szóbeli | Egyéni időpont később; kézzel írt tanulói bemutatkozás a február 22-i jelentkezéshez. |
 | **Márc. 2–5.** | Isaszeg szóbeli | Egyéni beosztás később; a külön kereső jelenleg 2026-os, nem aktuális foglalási lista. |
-| **Márc. 3.** | Református 0004 szóbeli | Egyéni időpont még ismeretlen. |
-| **Márc. 4–5.** | Református pótszóbeli | Szükség esetén egyeztetendő. |
 | **Márc. 6., 10., 11.** | TIG szóbeli | Egyéni beosztás az iskola honlapján. |
 | **Márc. 6. vagy 13. – ellentmondás** | EGA 0003/0005 szóbeli | Az [új hirdetmény](https://www.egaaszod.hu/bejegyzes/szobeli-felveteli-temakorok) március 6-ot, a [PDF](https://www.egaaszod.hu/dokumentumok/194/letoltes) március 13-at ad. Egyik sem tekintendő tisztázottnak. Legalább 90/150 előzetes pont szükséges. A 0002-n nincs szóbeli. |
 | **Márc. 18. – megerősítendő** | EGA pótszóbeli | A PDF-ben szerepel; a fő időponttal együtt tisztázandó. |
@@ -102,7 +101,7 @@
 | **Ápr. 22.** | Iskolai rangsorok továbbítása az OH-nak | Adminisztratív mérföldkő, nem új családi határidő. |
 | **Ápr. 29.** | OH-egyeztetés eredménye az iskoláknak | A családok hivatalos értesítése ezt követi. |
 
-Még hiányzik: az egyéni TIG/VERKA-időpontok, a Premontrei beosztása és a JPP beszélgetéseinek/próbanapjainak/döntéseinek ütemezése. A Szerb 0021-en nincs szóbeli; a megszűnt 0031 nem választható.
+Még hiányzik: az egyéni TIG/VERKA-időpontok, a VIK/Bárdos egyéni beosztása és a JPP beszélgetéseinek/próbanapjainak/döntéseinek ütemezése. A Szerb 0021-en nincs szóbeli; a megszűnt 0031 nem választható.
 
 ## Május–szeptember: döntések és beiratkozás
 
@@ -127,8 +126,6 @@ Még hiányzik: az egyéni TIG/VERKA-időpontok, a Premontrei beosztása és a J
 | TIG | Egyéni szóbeli beosztás; június 24-i beiratkozás órája. |
 | JPP | Belső továbbhaladás, külső/belső kiválasztás, próbanap, végső beszélgetés, szerződés és fizetés. |
 | Szerb | További látogatások, iskolai dokumentumutasítások; aktuális kód 0021. |
-| Premontrei | Lelkészi ajánlás és motivációs levél határideje; szóbeli beosztás. A november 19./26-i 17:00-s látogatás már igazolt. |
-| Református | Egyéni szóbeli; január 23-i lelkészi jellemzés átvételi rendje. A november 17-i 15:00-s tájékoztató igazolt. |
 | EGA | Március 6./13. ütköző dátum, pótnap; keresztelési dokumentum/igazgatói engedély beadása. |
 | VERKA | Lefoglalt teadélután pontos ideje; március 1–5. egyéni beosztása; iratok február 22-ig. |
 | Isaszeg | Március 2–5. egyéni beosztása; aktuális behívási küszöb, létszám, iratok. December 3. foglalható. |
@@ -140,9 +137,7 @@ Még hiányzik: az egyéni TIG/VERKA-időpontok, a Premontrei beosztása és a J
 - [TIG tájékoztató](https://www.tig-godollo.edu.hu/beiskolazas/reszletes-felveteli-tajekoztato/) · [időpontok](https://www.tig-godollo.edu.hu/beiskolazas/felveteli-eljarassal-kapcsolatos-idopontok/).
 - [Szerb nyílt nap](https://www.szag16.hu/hirek/2026/09/tajekoztato-nyilt-napok-programjarol-es-regisztracios-lehetosegekrol) · [órák](https://szerb-antal.edu.hu/nyiltnap/#/embed/HJCoqJdeLrRIGNYvHUyC) · [szabályzat](https://szag16.hu/beiskolazas/felveteli-szabalyzatunk).
 - [BPS események](https://opendays.budapestschool.org/nyiltnapok/) · [JPP november 2. – korábbi esemény](https://opendays.budapestschool.org/open-day-registration/9167b965-ac9f-4b53-af93-3169d14388b0) · [diákórák](https://my.bphs.hu/opendays) · [JPP-kutatás](Iskol%C3%A1k/Budapest%20School%20JPP.md#R%C3%A9szletes%20felv%C3%A9teli%20tudnival%C3%B3k).
-- [Református felvételi oldal](https://grl.hu/felveteli-tajekoztato/) · [DOCX, a fájlnév ellenére 2027/2028-as tartalom](https://grl.hu/wp-content/uploads/2026/10/Felveteli-tajekoztato-2026_2027-1.docx).
 - [EGA tájékoztató](https://www.egaaszod.hu/dokumentumok/194/letoltes).
-- [Premontrei tájékoztató](https://iskolakozpont.premontrei.hu/felvetelizoknek/altalanos-tajekoztato) · [eljárás](https://iskolakozpont.premontrei.hu/felvetelizoknek/a-felveteli-eljaras-menete).
 - [VERKA felvételi oldal](https://verka.hu/erdeklodoknek/felveteli-informaciok/) · [kutatás](Iskol%C3%A1k/VERKA.md#R%C3%A9szletes%20felv%C3%A9teli%20tudnival%C3%B3k).
 - [Isaszeg aktuális felvételi oldala](https://www.sziszi.hu/kepzeseink/felveteli-rendje.html) · [kutatás](Iskol%C3%A1k/G%C3%A1bor%20D%C3%A9nes%20%E2%80%93%20Isaszeg.md#R%C3%A9szletes%20felv%C3%A9teli%20tudnival%C3%B3k).
 - [Összehasonlítás](%C3%96sszehasonl%C3%ADt%C3%A1s.md) · [Pontszámítások](%C3%96sszehasonl%C3%ADt%C3%A1s.md#Pontsz%C3%A1m%C3%ADt%C3%A1sok) · [Közlekedés](K%C3%B6zleked%C3%A9s.md).
